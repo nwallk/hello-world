@@ -1,7 +1,7 @@
 # hello-world
 Create a New Repository
 
-Hello Earthlings...
+Hello Earthlings,
 
 nwallk here, yes I am a data geek. 
 
